@@ -1,0 +1,55 @@
+h1 {
+    color: #FFFFFF;
+    font-family: BRUSHSTRIKE;
+    font-size: 121px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px 2px 10px #881EC5;
+}
+p {
+    color: #FFFFFF;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 700;
+    font-size: larger;
+    text-shadow: 2px 2px 5px #6903AC;
+}
+a:link {
+    color: #FFFFFF;
+    font-family: Nixmat;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 100;
+    font-size: 29px;
+    text-shadow: 2px 2px 5px #00BCC5;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #FFFFFF;
+    font-family: Nixmat;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 100;
+    font-size: 29px;
+    text-shadow: 2px 2px 5px #00BCC5;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #FFFFFF;
+    font-family: Nixmat;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 100;
+    font-size: 29px;
+    text-shadow: 2px 2px 5px #00BCC5;
+    text-decoration: underline;
+}
+
+
+body {
+    background-color: #1B1B1B;
+    color: undefined;
+}
